@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/GPTChatBOX/static/css/main.91b51300.css",
-    "main.js": "/GPTChatBOX/static/js/main.a0a7470a.js",
+    "main.js": "/GPTChatBOX/static/js/main.e08bb449.js",
     "static/js/787.8e122cb7.chunk.js": "/GPTChatBOX/static/js/787.8e122cb7.chunk.js",
     "index.html": "/GPTChatBOX/index.html",
     "main.91b51300.css.map": "/GPTChatBOX/static/css/main.91b51300.css.map",
-    "main.a0a7470a.js.map": "/GPTChatBOX/static/js/main.a0a7470a.js.map",
+    "main.e08bb449.js.map": "/GPTChatBOX/static/js/main.e08bb449.js.map",
     "787.8e122cb7.chunk.js.map": "/GPTChatBOX/static/js/787.8e122cb7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.91b51300.css",
-    "static/js/main.a0a7470a.js"
+    "static/js/main.e08bb449.js"
   ]
 }
